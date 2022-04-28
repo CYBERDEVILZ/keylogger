@@ -1,2 +1,7 @@
-# keylogger
-A simple keylogger written in JavaScript. Python server to log the keystrokes has also been included. To know more about developing and deploying this keylogger, visit https://www.youtube.com/watch?v=b0mxqR4jF7g&amp;t=866s
+# Keylogger: Develop and Deploy
+
+Keyloggers are used to record keystrokes that the victim types into his keyboard. This particular keylogger is written in **JavaScript** and can only be used in websites where you can** modify the source code**. Such a feat is only possible via **Stored XSS** or **Man-In-The-Middle attack**. To know more about the second method, refer to my video explaining everything regarding **developing and deploying** a keylogger over a **Wi-Fi Network**.
+
+## Learn to Develop and Deploy a Keylogger From Scratch
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b0mxqR4jF7g/0.jpg)](https://www.youtube.com/watch?v=b0mxqR4jF7g)   
+_(click on the thumbnail to watch the video)_
